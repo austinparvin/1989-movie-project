@@ -30,7 +30,7 @@ The data for this assignment comes from [The Movie DB](https://www.themoviedb.or
 
 [LIVE SITE](https://1989-movie-project-austinparvin.netlify.app/)
 
-![Color Picker](http://g.recordit.co/NsH4Y2xeEr.gif)
+![1989 Movie Project](http://g.recordit.co/NsH4Y2xeEr.gif)
 
 ## Featured Code
 
